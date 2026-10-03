@@ -2,7 +2,7 @@
 
 Projeto de banco de dados desenvolvido para um trabalho da faculdade, com foco em **restrições (constraints)**, **integridade de dados** e **chaves (primary key e foreign key)** em SQL Server.
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O objetivo é modelar um pequeno sistema de jogo, relacionando jogadores, personagens e partidas, aplicando na prática os conceitos estudados em aula sobre modelagem relacional.
 
