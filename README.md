@@ -41,4 +41,4 @@ Este projeto ainda está em construção. Próximos passos:
 
 ---
 
-—Projeto acadêmico, Unicid 🎓
+—Projeto acadêmico, Unicid 
